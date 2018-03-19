@@ -1,0 +1,25 @@
+{
+  "name": "server-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "csurf": "^1.9.0",
+    "express": "^4.16.3",
+    "js-data": "^3.0.2",
+    "js-data-sql": "^1.0.1",
+    "moment": "^2.21.0",
+    "pg": "^7.4.1",
+    "sanitize-html": "^1.18.2"
+  }
+}
